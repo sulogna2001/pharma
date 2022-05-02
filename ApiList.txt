@@ -1,0 +1,31 @@
+Customer Routes
+
+Login
+Signup
+Profile/dashboard
+update profile
+Show Products
+show products with specific id
+show produvts and search by name
+customer orders
+customer cart (adding /removing)
+customer cart chcekout
+custor payment (stripe api& COD)
+
+password reset
+OTP
+
+
+Manager Routes
+Login
+Signup
+manager Profile
+update profile
+manager products (add /deleting )Stock update
+Product update 
+OTP
+Password reset
+
+
+
+
